@@ -1,0 +1,5 @@
+name: WelcomeRewards
+version: ${project.version}
+author: DuckyProgrammer
+main: me.DuckyProgrammer.WelcomeRewards.Main
+api-version: 1.13

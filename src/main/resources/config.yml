@@ -1,0 +1,4 @@
+welcome-message: "&bWelcome to the server, %player%!" # The message broadcasted to the entire server
+welcoming-time: 10 # This is in seconds
+welcome-command: "eco give %player% 100" # This is the reward command for welcoming a player
+welcomed-message: "&aThanks for welcoming new players to the server!" # This is the message sent to the player who welcomed a new player
