@@ -6,7 +6,7 @@
 
     <groupId>me.DuckyProgrammer</groupId>
     <artifactId>WelcomeRewards</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <properties>
         <maven.compiler.source>9</maven.compiler.source>
@@ -64,6 +64,12 @@
             <artifactId>bstats-bukkit</artifactId>
             <version>3.0.2</version>
             <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.googlecode.json-simple</groupId>
+            <artifactId>json-simple</artifactId>
+            <version>1.1.1</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 </project>
