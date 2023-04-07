@@ -6,7 +6,7 @@
 
     <groupId>me.DuckyProgrammer</groupId>
     <artifactId>WelcomeRewards</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
 
     <properties>
         <maven.compiler.source>9</maven.compiler.source>
@@ -49,6 +49,12 @@
                 </executions>
             </plugin>
         </plugins>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>true</filtering>
+            </resource>
+        </resources>
     </build>
 
     <dependencies>
